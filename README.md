@@ -3,7 +3,7 @@
 # Visitekaartje 2.0
 
 
-<img src="https://user-images.githubusercontent.com/26089533/153252878-50ca0d22-c759-4b64-b49e-98e28b0caa72.png" width="800" height="600"> 
+<img src="https://user-images.githubusercontent.com/26089533/153252878-50ca0d22-c759-4b64-b49e-98e28b0caa72.png" width="800" height="400"> 
 
 
 ## Inhoudsopgave
