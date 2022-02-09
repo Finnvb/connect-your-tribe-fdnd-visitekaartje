@@ -34,7 +34,8 @@ Dit is een redesign van het visitekaartje dat ik in semester 1 heb gemaakt. In d
 
 ## Bronnen
 * Figma
-* svgrepo
+* Svgrepo
+* Unsplash
 
 ## Licentie
 
