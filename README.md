@@ -1,7 +1,9 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-Visitekaartje 2.0
+# Visitekaartje 2.0
+
+![Screenshot 2022-02-09 at 18-09-15 Visitekaart 2 0](https://user-images.githubusercontent.com/26089533/153252878-50ca0d22-c759-4b64-b49e-98e28b0caa72.png)
+
 
 ## Inhoudsopgave
 
