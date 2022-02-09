@@ -2,7 +2,8 @@
 
 # Visitekaartje 2.0
 
-![Screenshot 2022-02-09 at 18-09-15 Visitekaart 2 0](https://user-images.githubusercontent.com/26089533/153252878-50ca0d22-c759-4b64-b49e-98e28b0caa72.png)
+
+<img src="https://user-images.githubusercontent.com/26089533/153252878-50ca0d22-c759-4b64-b49e-98e28b0caa72.png" width="100" height="100"> 
 
 
 ## Inhoudsopgave
