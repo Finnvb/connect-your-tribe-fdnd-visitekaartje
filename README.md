@@ -3,7 +3,7 @@
 # Visitekaartje 2.0
 
 
-<img src="https://user-images.githubusercontent.com/26089533/153252878-50ca0d22-c759-4b64-b49e-98e28b0caa72.png" width="700" height="400"> 
+<img src="https://user-images.githubusercontent.com/26089533/153296778-462fbea7-3fec-4fbf-86f9-76bf62e66e31.png" width="700" height="450"> 
 
 
 ## Inhoudsopgave
@@ -34,7 +34,8 @@ Dit is een redesign van het visitekaartje dat ik in semester 1 heb gemaakt. In d
 
 ## Bronnen
 * Figma
-* svgrepo
+* Svgrepo
+* Unsplash
 
 ## Licentie
 
