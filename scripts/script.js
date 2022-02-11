@@ -3,15 +3,14 @@ const card = document.getElementsByClassName("container");
 
 card[0].addEventListener('click', flip);
 
-function flip(event){
-	let element = event.currentTarget;
-	if (element.className === "container") {
-        
-    if(element.style.transform == "rotateY(180deg)") {
+function flip(event) {
+  let element = event.currentTarget;
+  if (element.className === "container") {
+
+    if (element.style.transform == "rotateY(180deg)") {
       element.style.transform = "rotateY(0deg)";
-   
-    }
-    else {
+
+    } else {
       element.style.transform = "rotateY(180deg)";
     }
   }
@@ -26,27 +25,30 @@ function flip(event){
 const baseURL = "https://tribe.api.fdnd.nl/v1";
 const studentID = 13;
 const nameElement = document.getElementById("name");
-const githubHandle = document.getElementById("githubHandle");
+const githubHandleElement = document.getElementById("githubHandle");
 
 
-function fetchNameFromAPI(){
+function fetchNameFromAPI() {
   fetch(`${baseURL}/member`)
-  .then((response) => {
-    return response.json();
-  })
-  .then((json) => {
-    let members = json.data; // array object met alle members 
-    members.forEach((member)=>{
-      if(member.memberId == 21){
-       
-       const nameAPI = member.name + " " + member.prefix + member.surname;
-       nameElement.innerHTML = nameAPI;
-      
-      }
+    .then((response) => {
+      return response.json();
     })
-console.log(members);
+    .then((json) => {
+      let members = json.data; // array object met alle members 
+      members.forEach((member) => {
+        if (member.memberId == 21) {
 
-  })
+          const nameAPI = member.name + " " + member.prefix + member.surname;
+          nameElement.innerHTML = nameAPI;
+
+          const githubHandleAPI = member.githubHandle;
+           githubHandleElement.innerHTML = githubHandleAPI;
+
+
+        }
+      })
+      console.log(members);
+
+    })
 }
-  fetchNameFromAPI();
-  
+fetchNameFromAPI();
