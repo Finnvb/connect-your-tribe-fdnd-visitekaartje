@@ -20,7 +20,7 @@
 Dit is een redesign van het visitekaartje dat ik in semester 1 heb gemaakt. In deze versie heeft het visitekaartje een pinpas design. Wanneer je erop klikt flipt de pinpas en kun je de achterkant zien. In deze versie wordt er data ingeladen vanuit een Rest API.
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
-[🌐 Live Versie]("http://finn.student.fdnd.nl/")
+[🌐 Live Versie ("http://finn.student.fdnd.nl/")]
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
