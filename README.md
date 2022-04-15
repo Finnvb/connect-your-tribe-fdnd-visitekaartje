@@ -5,6 +5,16 @@
 
 <img src="https://user-images.githubusercontent.com/26089533/153296778-462fbea7-3fec-4fbf-86f9-76bf62e66e31.png" width="700" height="450"> 
 
+# Design
+
+Een ontwerp van mijn visitekaartje die ik in Figma heb gemaakt.
+
+![afbeelding](https://user-images.githubusercontent.com/26089533/163558907-42e35b7c-5d12-4658-914c-c0fea2bbf2dd.png)
+
+In plaats van een foto van mezelf te gebruiken leek het mij leuk om een soort van logo met mijn initialen te maken in Figma. 
+
+![afbeelding](https://user-images.githubusercontent.com/26089533/163559023-d26bac22-4555-4e76-bfbd-fe7b91d9ddfb.png)
+
 
 ## Inhoudsopgave
 
