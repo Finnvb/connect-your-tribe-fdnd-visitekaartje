@@ -9,7 +9,7 @@
 
 Een ontwerp van mijn visitekaartje die ik in Figma heb gemaakt.
 
-![afbeelding](https://user-images.githubusercontent.com/26089533/163558907-42e35b7c-5d12-4658-914c-c0fea2bbf2dd.png)
+![afbeelding](https://user-images.githubusercontent.com/26089533/163567197-8521ffd3-0a79-4e16-9d29-1179601fb6dc.png)
 
 In plaats van een foto van mezelf te gebruiken leek het mij leuk om een soort van logo met mijn initialen te maken in Figma. 
 
